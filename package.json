@@ -1,0 +1,16 @@
+{
+  "name": "enchantmask",
+  "version": "3.1.0",
+  "description": "This is package which provides various methods to interact with metamask wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "metamask",
+    "javascript",
+    "JSON_RPC-API"
+  ],
+  "author": "Aditya Suryawanshi (Adidem)",
+  "license": "ISC"
+}
