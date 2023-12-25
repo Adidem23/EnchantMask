@@ -60,6 +60,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -74,16 +75,11 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 Follow The Installation manual and install dependencies 
 
-1.Clone this repo
-   
-2.Install NPM Modules
+1.Install Directly From NPM 
    ```sh
-npm install --force(If Any Error Comes) / npm install
-   ``` 
-3.Run Frontend 
-   ```js
-npm run start
+npm i enchantmask@lastest / npm i enchantmask@lastest --force (IF Any Error Occurs)
    ```
+
 ## Output and Screenshots and Video Output of Demo Dapp:
 
 ## NPM Deployemnt Link: https://www.npmjs.com/package/enchantmask
