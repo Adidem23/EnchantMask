@@ -50,11 +50,8 @@ Retrieve the latest block number on the Ethereum blockchain.
 # Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+ - ![me-removebg-preview](https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255)
 
- - [![My Skills](https://skillicons.dev/icons?i=metamask&perline=3)](https://skillicons.dev) ReactJs
- - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
- - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
- - [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev) Solidity
  - AlongSide With all These I Have used EthersJs , NodeJS-Child Processes and Hardhat Project For Generation of ABI
 
 ## Note : This is Not Final Project This Contains Many Bugs and improper UI and also This Repo Contains Frontend and Backend will be hosted on Docker
