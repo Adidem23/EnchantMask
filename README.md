@@ -53,7 +53,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
  
 <div display="flex" flex-direction="row" >
  <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px"  />
-  <h3 align="center">Metamask-api</h3>
+  <h3>Metamask-api</h3>
  
 </div>
 
