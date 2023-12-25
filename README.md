@@ -28,61 +28,24 @@
  
 Enchantmask is an npm package designed to streamline interaction with MetaMask, providing developers with convenient methods to perform essential Ethereum-related tasks. By integrating Enchantmask into your project, you can effortlessly incorporate MetaMask functionality and enhance the user experience of your decentralized applications (DApps).
 
-## Features
-
-1. wallet_switchEthereumChain
-This method facilitates seamless switching between Ethereum chains, allowing users to effortlessly navigate different networks supported by MetaMask.
-
-2. eth_getEncryptionKey
-Retrieve the encryption key associated with the Ethereum account currently connected via MetaMask.
-
-3. eth-requestAccounts
-Initiate a request for user accounts, prompting MetaMask to provide account information for transaction authorization.
-
-4. Personal Sign
-Enable personal signing capabilities, allowing users to sign messages or transactions using their MetaMask accounts securely.
-
-5. eth_blocknumber
-Retrieve the latest block number on the Ethereum blockchain.
-
-6. eth_chainid
-Get the chain ID of the currently connected Ethereum network.
-
-7. eth_feehistory
-Access the fee history of the Ethereum network, providing insights into transaction fee trends.
-
-8. eth_gasprice
-Retrieve the current gas price on the Ethereum network.
-
-9. eth_getBalance
-Obtain the Ether balance of a specified Ethereum address.
-
-10. eth_getBlockByNumber
-Retrieve information about a specific block using its block number.
-
-11. eth_getBlockTransactionCountByNumber
-Get the number of transactions in a specific block.
-
-12. eth_getTransactionByBlockNumberAndIndex
-Retrieve details of a transaction by specifying the block number and transaction index.
-
-13. eth_getTransactionCount
-Get the number of transactions sent from a specified Ethereum address.
-
-14. eth_getTransactionReceipt
-Retrieve the receipt of a specific transaction, providing detailed information about its execution.
-
 ## Key Features:
 
-## 1.AI-Powered Code Generation:
+# 1.switchChain(): 
+This method facilitates seamless switching between Ethereum chains, allowing users to effortlessly navigate different networks supported by MetaMask.
 
-CodeCraft harnesses the power of artificial intelligence to automate the generation of Solidity smart contracts. Through machine learning models and natural language processing, the platform interprets high-level requirements and converts them into robust, secure, and efficient smart contract code.
+# 2.getPublicEncryptionKey(): 
+Retrieve the encryption key associated with the Ethereum account currently connected via MetaMask.
 
-## 2.User Interface:
-CodeCraft offers an intuitive and user-friendly interface that allows users, regardless of their programming expertise, to easily input project specifications. The platform abstracts away the complexities of smart contract development, making it accessible to a wider audience.
+# 3.connectAccount() : 
+Initiate a request for user accounts, prompting MetaMask to provide account information for transaction authorization.
 
-## 3.Real-Time Smart-contract Interaction:
-A unique feature of CodeCraft is its integrated testing environment for smart contracts. Users can Connect Metamask Account and can generate ABI And Can Deploy Contracts in real Time with their Wallet.
+# 4.signMessage() :
+Enable personal signing capabilities, allowing users to sign messages or transactions using their MetaMask accounts securely.
+
+# 5. getBlockNumber() : 
+Retrieve the latest block number on the Ethereum blockchain.
+
+... and Many More 
 
 ### Built With
 
