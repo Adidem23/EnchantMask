@@ -51,7 +51,7 @@ Retrieve the latest block number on the Ethereum blockchain.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
  
-<div display="flex" flex-direction="row" >
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
  <div>
   <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px"  />
   <h5>Metamask-api</h3>
