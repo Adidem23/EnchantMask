@@ -24,9 +24,53 @@
 
 ## About The Project
 
- ## CodeCraft - AI-Generated Solidity Smart Contracts Platform
+ ##  EnchantMask : Metamask Interaction based Npm Package
+ 
+Enchantmask is an npm package designed to streamline interaction with MetaMask, providing developers with convenient methods to perform essential Ethereum-related tasks. By integrating Enchantmask into your project, you can effortlessly incorporate MetaMask functionality and enhance the user experience of your decentralized applications (DApps).
 
-In the rapidly evolving landscape of blockchain technology and smart contracts, CodeCraft emerges as a groundbreaking platform that seamlessly integrates artificial intelligence with blockchain development. The core objective of CodeCraft is to revolutionize the process of Solidity smart contract creation by leveraging advanced AI techniques for code generation and providing a comprehensive environment for testing and deployment.
+## Features
+
+1. wallet_switchEthereumChain
+This method facilitates seamless switching between Ethereum chains, allowing users to effortlessly navigate different networks supported by MetaMask.
+
+2. eth_getEncryptionKey
+Retrieve the encryption key associated with the Ethereum account currently connected via MetaMask.
+
+3. eth-requestAccounts
+Initiate a request for user accounts, prompting MetaMask to provide account information for transaction authorization.
+
+4. Personal Sign
+Enable personal signing capabilities, allowing users to sign messages or transactions using their MetaMask accounts securely.
+
+5. eth_blocknumber
+Retrieve the latest block number on the Ethereum blockchain.
+
+6. eth_chainid
+Get the chain ID of the currently connected Ethereum network.
+
+7. eth_feehistory
+Access the fee history of the Ethereum network, providing insights into transaction fee trends.
+
+8. eth_gasprice
+Retrieve the current gas price on the Ethereum network.
+
+9. eth_getBalance
+Obtain the Ether balance of a specified Ethereum address.
+
+10. eth_getBlockByNumber
+Retrieve information about a specific block using its block number.
+
+11. eth_getBlockTransactionCountByNumber
+Get the number of transactions in a specific block.
+
+12. eth_getTransactionByBlockNumberAndIndex
+Retrieve details of a transaction by specifying the block number and transaction index.
+
+13. eth_getTransactionCount
+Get the number of transactions sent from a specified Ethereum address.
+
+14. eth_getTransactionReceipt
+Retrieve the receipt of a specific transaction, providing detailed information about its execution.
 
 ## Key Features:
 
