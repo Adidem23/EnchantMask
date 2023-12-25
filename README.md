@@ -50,11 +50,11 @@ Retrieve the latest block number on the Ethereum blockchain.
 # Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
- - ![me-removebg-preview](https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255)
-
+ 
 <div display="flex" flex-direction="row" >
  <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px"  />
-  <h3 align="center"> EnchantMask : Metamask Interaction based Npm Package</h3>
+  <h3 align="center">Metamask-api</h3>
+ 
 </div>
 
  - AlongSide With all These I Have used EthersJs , NodeJS-Child Processes and Hardhat Project For Generation of ABI
