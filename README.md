@@ -55,12 +55,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
   <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px"  />
   <h5>Metamask-api</h3>
  </div>
- 
-<div>
-  <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px"  />
-  <h5>Metamask-api</h3>
-</div>
 
+- More Specifically it uses JSON-RPC API of Metamask and use some UTF-8 Conversions for some messages and it uses Javascript . 
 
 ### Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
