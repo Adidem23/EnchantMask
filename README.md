@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/acaf2dd6-cfd2-4cda-ad2b-acf630ebed2e" height="120px" width="120px"  />
+ <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/b18d8abd-ec4a-4b38-9936-24c01ede9a00" height="120px" width="120px"  
   <h3 align="center"> EnchantMask : Metamask Interaction based Npm Package</h3>
 </div>
 <details>
