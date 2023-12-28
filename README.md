@@ -59,7 +59,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - More Specifically it uses JSON-RPC API of Metamask and use some UTF-8 Conversions for some messages and it uses Javascript . 
 
 ### Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
 
 * npm
   ```sh
