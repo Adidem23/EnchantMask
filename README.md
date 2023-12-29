@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/acaf2dd6-cfd2-4cda-ad2b-acf630ebed2e" height="120px" width="120px"  />
+ <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/b18d8abd-ec4a-4b38-9936-24c01ede9a00" height="120px" width="120px" />
   <h3 align="center"> EnchantMask : Metamask Interaction based Npm Package</h3>
 </div>
 <details>
@@ -47,10 +47,7 @@ Retrieve the latest block number on the Ethereum blockchain.
 
 ... and Many More 
 
-# Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
- 
+# Built With 
  <div>
   <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px"  />
   <h5>Metamask-api</h3>
@@ -59,7 +56,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - More Specifically it uses JSON-RPC API of Metamask and use some UTF-8 Conversions for some messages and it uses Javascript . 
 
 ### Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
 
 * npm
   ```sh
@@ -81,3 +77,4 @@ npm i enchantmask@lastest / npm i enchantmask@lastest --force (IF Any Error Occu
    ```
 
 # Read Docs At : https://enchant-docs.vercel.app/
+
