@@ -266,7 +266,7 @@ async function getTransactionInformation(blockNumber, transactionCount) {
         });
 
        const realone=JSON.stringify(transactioninfo);
-       console.log("transactionCount : "+realblockinfo);
+       console.log("TransactionInformation is  : "+realone);
        return transactioninfo;
 
     } else {
