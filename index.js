@@ -186,7 +186,6 @@ async function getGasPrice() {
         throw new Error("Metamask Not installed");
     }
 
-
 }
 
 async function getBalance() {
@@ -227,7 +226,7 @@ async function getBlockinformation(blocknumber) {
 
         const realblockinfo = JSON.stringify(blockinfo);
         console.log("blockinformation : "+realblockinfo);
-        return realblockinfo;
+        return blockinfo;
 
     } else {
         throw new Error("Metamask Not installed")
@@ -268,7 +267,7 @@ async function getTransactionInformation(blockNumber, transactionCount) {
 
        const realone=JSON.stringify(transactioninfo);
        console.log("transactionCount : "+realblockinfo);
-       return realone;
+       return transactioninfo;
 
     } else {
         throw new Error("Metamask Not installed")
